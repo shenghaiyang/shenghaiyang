@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Sheng Haiyang (盛海洋), an Android developer with experience in Kotlin, Java, and Flutter.
 
